@@ -44,7 +44,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("id_change_tip", "僅能使用以下字元：a-z、A-Z、0-9、_ (底線)。第一個字元必須為 a-z 或 A-Z。長度介於 6 到 16 之間。"),
         ("Website", "網站"),
         ("About", "關於"),
-        ("Slogan_tip", "Fork自Github源碼，忠科進行二次編譯，希望能幫到妳！"),
+        ("Slogan_tip", "Fork自 Github 源碼，忠科進行二次編譯，希望能幫到妳！"),
         ("Privacy Statement", "隱私權宣告"),
         ("Mute", "靜音"),
         ("Build Date", "建構日期"),
